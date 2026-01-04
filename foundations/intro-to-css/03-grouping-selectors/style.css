@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+#first-element {
+  background-color: #000;
+  color: #fff;
+}
+
+#second-element {
+  background-color: #ffff00;
+}
+
+#first-element,
+#second-element {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
